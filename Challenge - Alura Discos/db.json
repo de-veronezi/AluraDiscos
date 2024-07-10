@@ -1,0 +1,88 @@
+{
+  "discos": [
+    {
+      "id": "1",
+      "nome": "Turn on the Bright Lights",
+      "artista": "Interpol",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/6/68/Interpol_-_Turn_On_The_Bright_Lights.jpg",
+      "preco": 24.99
+    },
+    {
+      "id": "2",
+      "nome": "Bloom",
+      "artista": "Beach House",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/a/a2/Beach_House_-_Bloom.png",
+      "preco": 24.98
+    },
+    {
+      "id": "3",
+      "nome": "Violator",
+      "artista": "Depeche Mode",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/9/92/Depeche_Mode_-_Violator.png",
+      "preco": 38.99
+    },
+    {
+      "id": "4",
+      "nome": "Interpol",
+      "artista": "Interpol",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/3/3f/Interpolselftitled.jpg",
+      "preco": 22.99
+    },
+    {
+      "id": "5",
+      "nome": "7",
+      "artista": "Beach House",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/4/41/Beach_House_7_artwork.jpg",
+      "preco": 27
+    },
+    {
+      "id": "6",
+      "nome": "Antics",
+      "artista": "Interpol",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/5/59/Interpol-Antics.jpg",
+      "preco": 42.99
+    },
+    {
+      "id": "7",
+      "nome": "Ice Melt",
+      "artista": "Crumb",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/1/12/Ice_Melt_%28Crumb_album%29.jpg",
+      "preco": 25
+    },
+    {
+      "id": "8",
+      "nome": "Elephant",
+      "artista": "The White Stripes",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/1/11/Elephant%2C_The_White_Stripes.png",
+      "preco": 34.98
+    },
+    {
+      "id": "9",
+      "nome": "Speak & Spell",
+      "artista": "Depeche Mode",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/1/1e/Depeche_Mode_-_Speak_%26_Spell.png",
+      "preco": 30
+    },
+    {
+      "id": "10",
+      "nome": "Jinx",
+      "artista": "Crumb",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/3/38/Jinx_%28Crumb_album%29.jpg",
+      "preco": 21.98
+    },
+    {
+      "id": "11",
+      "nome": "Ultra",
+      "artista": "Depeche Mode",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/2/2a/Depeche_Mode_-_Ultra.png",
+      "preco": 23.99
+    },
+    {
+      "id": "12",
+      "nome": "Once Twice Melody",
+      "artista": "Beach House",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/0/00/Beach_House_-_Once_Twice_Melody.png",
+      "preco": 28
+    }
+  ]
+}
